@@ -1,7 +1,7 @@
 TtsEngineExample
 ================
 
-This is an example TTS Engine that breaks Settings app in Android 4.4.2 (aka KitKat)
+This is an example TTS Engine that breaks Settings app on devices with Android version <= 4.4.3 (aka KitKat).
 
 The original source is copied from {ANDROID-SDK}/samples/android-19/legacy/TtsEngine
 
